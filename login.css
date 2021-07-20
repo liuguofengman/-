@@ -1,0 +1,74 @@
+body{
+    background: url(./img/wuhan.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100%;
+    background-attachment: fixed;"
+}
+.logindiv{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    margin: auto;   
+}
+p{  
+    color: white;
+    font-size: 20px;
+    font-family: 宋体;
+}
+.formdiv{
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 250px;
+    margin: auto;
+   
+}
+.nameimg{
+    width: 20px;
+    height: 20px;
+}
+input:focus {
+    outline:none;
+} 
+#fname{
+    height: 30px; 
+    border:0px;
+    background:rgba(0, 0, 0, 0);
+}
+#lname{
+    height: 30px; 
+    border:0px;
+    background:rgba(0, 0, 0, 0);
+}
+#login{
+    width: 200px; 
+    height: 30px; 
+    background-color:slateblue; 
+    color: white;
+}
+table { 
+    border-collapse:collapse;
+    border: 1px solid black;
+    width: 230px; height: 200px;
+    text-align: center;
+}
+a{
+    color: red;
+    font-size: 2px;
+}
+.logo1{
+    font-family: 楷体;
+    color: white;
+    font-size: 40px;
+    font-weight:bold
+}
+.logo2{
+    margin-top: -40px;
+    font-family: 楷体;
+    color: white;
+    font-size: 15px;
+}

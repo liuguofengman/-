@@ -1,0 +1,61 @@
+.gongneng{
+    width: 650px;
+    height: 300px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  .divqiye{
+   text-align: center;
+    width: 270px;
+    float: left;
+         
+  }
+  .divzhaunjia{
+    text-align: center;
+    margin-left: 100px;
+    width: 270px;
+    float: left;
+    
+  }
+  .text-center:hover{
+    transform: rotate(30deg);
+    border-radius: 50%;
+    background-size: cover;
+    background-position: 50%;
+    transition: all 0.6s; 
+  }
+  .text1{
+    text-align: center;
+    color: rgb(255, 153, 0);
+    font-size: 25px;
+    font-family: 楷体;
+  }
+  .text2{
+    color: pink;
+    font-size: 25px;
+    font-family: 楷体;
+    text-align: center;
+  }
+  a{
+    text-decoration: none;
+  }
+.logo1{
+    font-family: 楷体;
+    color: red;
+    font-size: 40px;
+    font-weight:bold
+}
+.logo2{
+    margin-top: -40px;
+    font-family: 楷体;
+    color: red;
+    font-size: 15px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
